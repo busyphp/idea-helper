@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.busyphp.ideahelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.busyphp.ideahelper.MyBundle
 
 class MyApplicationService {
 
